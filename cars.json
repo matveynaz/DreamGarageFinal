@@ -1,0 +1,242 @@
+  [
+  {
+    "car_mark": "Ferrari",
+    "car_model": "308 GTB",
+    "color": "Red",
+    "cost": "300.000$",
+    "in_stock": "yes",
+    "tech": {
+      "engine": "V8",
+      "fuel_type": "Gasoline",
+      "hp": 255,
+      "year": 1975,
+      "facelift": false
+    }
+  },
+  {
+    "car_mark": "Porsche",
+    "car_model": "911 Carrera",
+    "color": "Silver",
+    "cost": "120.000$",
+    "in_stock": "no",
+    "tech": {
+      "engine": "Flat-6",
+      "fuel_type": "Gasoline",
+      "hp": 200,
+      "year": 1984,
+      "facelift": false
+    }
+  },
+  {
+    "car_mark": "Lamborghini",
+    "car_model": "Countach",
+    "color": "Yellow",
+    "cost": "98.000$",
+    "in_stock": "yes",
+    "tech": {
+      "engine": "V12",
+      "fuel_type": "Gasoline",
+      "hp": 455,
+      "year": 1974,
+      "facelift": true
+    }
+  },
+  {
+    "car_mark": "Jaguar",
+    "car_model": "E-Type",
+    "color": "British Racing Green",
+    "cost": "102.000$",
+    "in_stock": "no",
+    "tech": {
+      "engine": "Inline-6",
+      "fuel_type": "Gasoline",
+      "hp": 265,
+      "year": 1961,
+      "facelift": false
+    }
+  },
+  {
+    "car_mark": "Aston Martin",
+    "car_model": "DB5",
+    "color": "Silver Birch",
+    "cost": "65.000$",
+    "in_stock": "yes",
+    "tech": {
+      "engine": "Inline-6",
+      "fuel_type": "Gasoline",
+      "hp": 282,
+      "year": 1963,
+      "facelift": false
+    }
+  },
+  {
+    "car_mark": "BMW",
+    "car_model": "2002",
+    "color": "Polaris Silver",
+    "cost": "29.000$",
+    "in_stock": "yes",
+    "tech": {
+      "engine": "Inline-4",
+      "fuel_type": "Gasoline",
+      "hp": 120,
+      "year": 1968,
+      "facelift": true
+    }
+  },
+  {
+    "car_mark": "Alfa Romeo",
+    "car_model": "Giulia Sprint GTA",
+    "color": "Red",
+    "cost": "219.000$",
+    "in_stock": "no",
+    "tech": {
+      "engine": "Inline-4",
+      "fuel_type": "Gasoline",
+      "hp": 115,
+      "year": 1965,
+      "facelift": false
+    }
+  },
+  {
+    "car_mark": "MG",
+    "car_model": "B GT",
+    "color": "British Racing Green",
+    "cost": "60.000$",
+    "in_stock":"no",
+    "tech": {
+    "engine":"Inline-4",
+    "fuel_type": "Gasoline",
+    "hp": 312,
+    "year": 1977,
+    "facelift": false
+  }
+},
+
+{
+    "car_mark": "Ford",
+    "car_model": "GT40 Mk3",
+    "color": "Black",
+    "cost": "500.000$",
+    "in_stock":"yes",
+    "tech": {
+    "engine":"AFM2t2",
+    "fuel_type": "Gasoline",
+    "hp": 306,
+    "year": 1967,
+    "facelift": true
+  }
+},
+{
+    "car_mark": "Toyota",
+    "car_model": "Supra A80",
+    "color": "White",
+    "cost": "300.000$",
+    "in_stock":"yes",
+    "tech": {
+    "engine":"2JZ-GE",
+    "fuel_type": "Gasoline",
+    "hp": 312,
+    "year": 1988,
+    "facelift": false
+  }
+},
+{
+    "car_mark": "Porsche",
+    "car_model": "959",
+    "color": "Gray",
+    "cost": "180.000$",
+    "in_stock":"yes",
+    "tech": {
+    "engine":"2.8L twin-turbo",
+    "fuel_type": "Gasoline",
+    "hp": 197,
+    "year": 1986,
+    "facelift": true
+  }
+},
+{
+    "car_mark": "Audi",
+    "car_model": "Quattro",
+    "color": "Red",
+    "cost": "104.000$",
+    "in_stock":"no",
+    "tech": {
+    "engine":"2.2 SOHC 20V I5",
+    "fuel_type": "Gasoline",
+    "hp": 212,
+    "year": 1987,
+    "facelift": true
+  }
+},
+{
+    "car_mark": "Dodge",
+    "car_model": "Viper",
+    "color": "Yellow",
+    "cost": "40.000$",
+    "in_stock":"yes",
+    "tech": {
+    "engine":"V10",
+    "fuel_type": "Gasoline",
+    "hp": 287,
+    "year": 1988,
+    "facelift": false
+  }
+},
+{
+    "car_mark": "Volkswagen",
+    "car_model": "Beetle",
+    "color": "Yellow",
+    "cost": "12.000$",
+    "in_stock":"yes",
+    "tech": {
+    "engine":"82lb",
+    "fuel_type": "Gasoline",
+    "hp": 68,
+    "year": 1971,
+    "facelift": true
+  }
+},
+{
+    "car_mark": "Chevrolet",
+    "car_model": "El Camino SS",
+    "color": "Dirt gray",
+    "cost": "16.000$",
+    "in_stock":"yes",
+    "tech": {
+    "engine":"5.0L V-8",
+    "fuel_type": "Gasoline",
+    "hp": 150,
+    "year": 1999,
+    "facelift": true
+  }
+},
+{
+    "car_mark": "Mercedes-Benz",
+    "car_model": "280SE",
+    "color": "Red",
+    "cost": "168.000$",
+    "in_stock":"yes",
+    "tech": {
+    "engine":"M116 V-8",
+    "fuel_type": "Gasoline",
+    "hp": 130,
+    "year": 1971,
+    "facelift": false
+  }
+},
+{
+    "car_mark": "Porsche",
+    "car_model": "358B",
+    "color": "Fjord Green",
+    "cost": "180.000$",
+    "in_stock":"yes",
+    "tech": {
+    "engine":"Flat-4",
+    "fuel_type": "Gasoline",
+    "hp": 95,
+    "year": 1966,
+    "facelift": false
+  }
+}
+]
+

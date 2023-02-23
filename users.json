@@ -1,0 +1,106 @@
+[
+    {
+      "username": "alice",
+      "email": "alice@example.com",
+      "password": "$2a$10$N0JjKsO8VTJZ7TAtTJzoJuFeNINdApZk3qZIV2VJ75P6zhrnV.22K"
+    },
+    {
+      "username": "bob",
+      "email": "bob@example.com",
+      "password": "$2a$10$FX8s.P9Aupbg1bY.L2QWIOhDxMx0mgAV.qF/55QdW/nCX8GvNssDu"
+    },
+    {
+      "username": "charlie",
+      "email": "charlie@example.com",
+      "password": "$2a$10$gS/.juB0ZNG8nZoFiB4va.r4j/Oam1yMq3HfX2zL5SztYgjwZ8/tS"
+    },
+    {
+      "username": "dave",
+      "email": "dave@example.com",
+      "password": "$2a$10$ZAn/A.nAXFBTfN.tIuLsZeLX9Eg/1.LY2Q0grq3aFmQ75JlOgA0oi"
+    },
+    {
+      "username": "eve",
+      "email": "eve@example.com",
+      "password": "$2a$10$bbKsWgX9vLkt.KScs2hiF.T1q3u2xgFbELoMdH7NYdk4PjZ13.ZOy"
+    },
+    {
+      "username": "frank",
+      "email": "frank@example.com",
+      "password": "$2a$10$5PGF2El/EhR5y9gYYK8W0uq4LlABJ4gHvZDqxvj7IuHrjKo7X9zg."
+    },
+    {
+      "username": "grace",
+      "email": "grace@example.com",
+      "password": "$2a$10$ppdBzKjfeY1I24BLJSM0QOrb7iRXsKSD0s7ql0yFJpD/H/gTowY92"
+    },
+    {
+      "username": "harry",
+      "email": "harry@example.com",
+      "password": "$2a$10$U6R5PvZ5g5wlihS2J.w.tO9XvG8KgWq3SSllH4MYMxjvAgckIBSCW"
+    },
+    {
+      "username": "izzy",
+      "email": "izzy@example.com",
+      "password": "$2a$10$AgjKdVcIaGzSlP/jbXjlkuTGlKj/yxdT.iFEst7eZJnnlKl7.gu3G"
+    },
+    {
+        "username": "sam",
+        "email": "sam@example.com",
+        "password": "$2a$10$gS/.juB0ZNG8nZoFiB4va.r4j/Oam1yMq3HfX2zL5SztYgjwZ8/tS"
+      },
+      {
+        "username": "robin",
+        "email": "robin@example.com",
+        "password": "$2a$10$gS/.juB0ZNG8nZoFiB4va.r4j/Oam1yMq3HfX2zL5SztYgjwZ8/tS"
+      },
+      {
+        "username": "garry",
+        "email": "garry@example.com",
+        "password": "$2a$10$gS/.juB0ZNG8nZoFiB4va.r4j/Oam1yMq3HfX2zL5SztYgjwZ8/tS"
+      },
+      {
+        "username": "squidward",
+        "email": "squidward@example.com",
+        "password": "$2a$10$gS/.juB0ZNG8nZoFiB4va.r4j/Oam1yMq3HfX2zL5SztYgjwZ8/tS"
+      },
+      {
+        "username": "harry",
+        "email": "harry@example.com",
+        "password": "$2a$10$gS/.juB0ZNG8nZoFiB4va.r4j/Oam1yMq3HfX2zL5SztYgjwZ8/tS"
+      },
+      {
+        "username": "boba",
+        "email": "boba@example.com",
+        "password": "$2a$10$gS/.juB0ZNG8nZoFiB4va.r4j/Oam1yMq3HfX2zL5SztYgjwZ8/tS"
+      },
+      {
+      "username": "jason",
+      "email": "jason@example.com",
+      "password": "$2a$10$h8b1W9XKcN4zEda4Y0OkhehgKx55TWcexJdCIkSzpx44Kjyf9XpiC"
+      },
+      {
+      "username": "lary",
+      "email": "lary@example.com",
+      "password": "024ce82087c5ca9f57855937e0a07048333904ce"
+      },
+      {
+      "username": "blake",
+      "email": "blake@example.com",
+      "password": "ea3e2da94422f156f1a1e540f4599e3b8b86112b"
+      },
+      {
+      "username": "many",
+      "email": "many@example.com",
+      "password": "3f75427fb3ee18799add6a0b2737dba31f8c8d96"
+      },
+      {
+   "username": "cooper",
+    "email": "cooper@example.com",
+    "password": "b85f71e9ea7798151517dbc387f1274e2a8350c9"
+    },
+    {
+   "username": "kevin",
+    "email": "kevin@example.com",
+    "password": "ac7853efb427831565bc6add9d5c81bda9f0caa5"
+    }]
